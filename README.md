@@ -1,0 +1,1 @@
+In this project I created a fake website mockup for a taco van called Pacos Tacos. I was expanding my knowladge f flex box more. I also decided to mess around with the gird feature and make it responsive based on size of the page with media quereys. 
