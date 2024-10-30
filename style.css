@@ -167,6 +167,11 @@ nav a:hover {
     text-align: center;
 }
 
+.offer:hover {
+    border-radius: 50px;
+    transition: .8s;
+}
+
 .offer img {
     height: 200px;
     width:200px;
